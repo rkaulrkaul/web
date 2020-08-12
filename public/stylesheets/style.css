@@ -63,7 +63,7 @@ a {
   margin-right: auto;
 } */
 
-.nav {
+/* .nav {
   margin-top: 100px;
   height: 100%;
   width: 15%;
@@ -73,6 +73,14 @@ a {
   left: 0;
   padding-top: 10%;
   background-color: rgb(44, 43, 41);
+} */
+
+body {
+  scrollbar-width: none; 
+  -ms-overflow-style: none; 
+}
+body::-webkit-scrollbar { 
+  display: none;
 }
 
 .nav a {
