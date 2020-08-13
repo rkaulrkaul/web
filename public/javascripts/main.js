@@ -10,6 +10,9 @@ document.addEventListener("DOMContentLoaded", function(){
             window.scrollTo(0, 0);
         }
     }
+
+    // var divHeight = document.getElementById("cat1").style.height;
+    // document.getElementById("cat4").style.maxHeight = divHeight;
 });
 
 // $('document').ready(function() {
